@@ -192,3 +192,5 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.de]
   languageCode = "de-DE"
+
+publishDir="docs"
